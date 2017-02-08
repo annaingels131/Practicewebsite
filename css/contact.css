@@ -1,0 +1,38 @@
+/*==================SECTION TAGS==================*/
+section {
+    margin-top: 80px;
+    float: left;
+    width: 48%;
+}
+
+
+/*==================CONTACT FORM==================*/
+
+
+/*==================MAP==================*/
+
+
+/*==================ADDRESS==================*/
+button {
+    background-color: #bb9ea4;
+    color: #fff;
+}
+
+
+
+address {
+    font-size: 20px;
+    padding: 15px;
+}
+
+#physical-info-side {
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#physical-info-side h1 {
+    margin: 0 ;
+   
+}
+
